@@ -25,6 +25,16 @@ export default function IndexPage() {
             <a>about</a>
           </Link>
         </li>
+        <li>
+          <Link href="/showRequest">
+            <a>showRequest</a>
+          </Link>
+        </li>
+        <li>
+          <Link href="/Campuses">
+            <a>Campuses</a>
+          </Link>
+        </li>
       </ul>
     </div>
   );
